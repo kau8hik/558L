@@ -1,0 +1,4 @@
+IP address       HW type     Flags       HW address            Mask     Device
+10.10.1.1        0x1         0x2         00:00:00:00:00:04     *        inf001
+10.1.2.0         0x1         0x2         00:00:00:00:00:06     *        inf000
+10.10.3.2        0x1         0X2         00:00:00:00:00:08     *        inf002
